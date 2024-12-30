@@ -1,0 +1,11 @@
+C:\Users\caioJ\source\repos\BankApplication\Bank.Domain\bin\Debug\net8.0\Bank.Domain.deps.json
+C:\Users\caioJ\source\repos\BankApplication\Bank.Domain\bin\Debug\net8.0\Bank.Domain.dll
+C:\Users\caioJ\source\repos\BankApplication\Bank.Domain\bin\Debug\net8.0\Bank.Domain.pdb
+C:\Users\caioJ\source\repos\BankApplication\Bank.Domain\obj\Debug\net8.0\Bank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioJ\source\repos\BankApplication\Bank.Domain\obj\Debug\net8.0\Bank.Domain.AssemblyInfoInputs.cache
+C:\Users\caioJ\source\repos\BankApplication\Bank.Domain\obj\Debug\net8.0\Bank.Domain.AssemblyInfo.cs
+C:\Users\caioJ\source\repos\BankApplication\Bank.Domain\obj\Debug\net8.0\Bank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\caioJ\source\repos\BankApplication\Bank.Domain\obj\Debug\net8.0\Bank.Domain.dll
+C:\Users\caioJ\source\repos\BankApplication\Bank.Domain\obj\Debug\net8.0\refint\Bank.Domain.dll
+C:\Users\caioJ\source\repos\BankApplication\Bank.Domain\obj\Debug\net8.0\Bank.Domain.pdb
+C:\Users\caioJ\source\repos\BankApplication\Bank.Domain\obj\Debug\net8.0\ref\Bank.Domain.dll
